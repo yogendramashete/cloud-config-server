@@ -1,4 +1,4 @@
-#Cloud Config Server Microservice
+# Cloud Config Server Microservice (Kotlin)
 
 http://localhost:9296
 
